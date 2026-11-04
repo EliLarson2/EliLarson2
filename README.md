@@ -1,9 +1,9 @@
 ## About Me
 
-I'm an Electrical Engineer focused on **embedded hardware, PCB design, and system integration**.
+I'm an Electrical Engineer interested in **embedded systems, electronics, and hardware development**.
 
-My experience includes designing and bringing up custom microcontroller PCBs, embedded interfaces, analog and digital circuits, FPGA/VHDL development, UAV avionics, and hardware debugging.
+I enjoy building things and figuring out why they don't work. My projects have included **custom PCB design and bring-up, embedded C, FPGA/VHDL, DSP, mixed-signal systems, and autonomous robotics**.
 
-I particularly enjoy taking hardware from **schematic and component selection through PCB layout, assembly, bring-up, and troubleshooting**.
+I especially like projects where hardware, firmware, sensors, and signal processing have to work together as a complete system.
 
-I'm continuing to develop my skills in **professional hardware development, FPGA/DSP, automated hardware testing, and RF systems**.
+Right now I'm continuing to build my skills in **professional hardware development, RF, FPGA/DSP, and hardware testing**.
